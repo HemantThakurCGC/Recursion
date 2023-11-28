@@ -1,3 +1,4 @@
+//Print nth number series
 public class MyClass {
     
     public static void printInc(int x){
